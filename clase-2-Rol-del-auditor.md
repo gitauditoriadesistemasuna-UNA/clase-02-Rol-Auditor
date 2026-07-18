@@ -1,189 +1,189 @@
-# Clase: Fases de la Auditoría de TI y Competencias Profesionales del Auditor
-
-## Marcos de referencia
-
-El contenido de esta clase se basa en los siguientes marcos de referencia:
-
-- **COBIT 2019**
-- **Reglamento CONASSIF 5-24**
-- **Marco normativo del MICITT**
-
----
+# Sesión 2: Rol del Auditor de TI
 
 ## 1. Fases de la Auditoría de TI
 
-El proceso de auditoría o aseguramiento de Tecnologías de Información, según el objetivo **MEA04 de COBIT 2019**, se estructura en las siguientes etapas secuenciales.
+El proceso de auditoría o aseguramiento de TI, según el objetivo MEA04 de COBIT 2019, se estructura en las siguientes etapas secuenciales.
 
 ### 1.1 Planificación basada en riesgos
 
-Se determinan los objetivos de la iniciativa de aseguramiento tras evaluar:
+Se determinan los objetivos de la iniciativa de aseguramiento después de evaluar el contexto interno y externo y el riesgo de no lograr las metas empresariales.
 
-- El contexto interno.
-- El contexto externo.
-- El riesgo de no lograr las metas empresariales.
+**Ejemplo:** Decidir auditar primero el proceso de gestión de cambios porque se detectó que las interrupciones recientes del sistema financiero fueron provocadas por actualizaciones aplicadas incorrectamente.
 
 ### 1.2 Determinación de objetivos y alcance
 
-Se definen los componentes de gobierno que serán revisados, entre ellos:
+Se definen los componentes de gobierno que serán revisados, como procesos, estructuras y políticas. También se acuerdan los límites organizativos del trabajo de auditoría.
 
-- Procesos.
-- Estructuras.
-- Políticas.
-- Otros componentes relacionados con el gobierno y la gestión.
-
-Además, se acuerdan los límites organizativos del encargo de auditoría.
+**Ejemplo:** Delimitar que la auditoría revisará únicamente la seguridad física del centro de datos principal y no las sucursales remotas.
 
 ### 1.3 Definición del programa de trabajo
 
-Se establecen los pasos detallados que permitirán:
+Se establecen los pasos detallados que se utilizarán para recopilar y evaluar la información relacionada con los controles de gestión.
 
-- Recopilar información.
-- Evaluar la información obtenida.
-- Analizar los controles de gestión.
+**Ejemplo:** Crear una lista de verificación de veinte puntos para determinar si las copias de seguridad se cifran y se almacenan fuera del sitio principal.
 
 ### 1.4 Ejecución: evaluación del diseño
 
-El auditor valida si los controles internos existentes se encuentran diseñados de forma:
+El auditor valida si los controles internos existentes están diseñados de forma completa, relevante y rentable.
 
-- Completa.
-- Relevante.
-- Rentable.
+**Ejemplo:** Verificar si existe una política que establezca la obligación de utilizar doble factor de autenticación.
 
 ### 1.5 Ejecución: eficacia operativa
 
-Se prueban los controles para determinar si funcionan según lo previsto.
+Se prueban los controles para determinar si funcionan de acuerdo con lo previsto. Para ello, el auditor obtiene evidencia directa e indirecta mediante técnicas de prueba.
 
-Durante esta etapa se obtienen:
-
-- Evidencias directas.
-- Evidencias indirectas.
-
-Estas evidencias se recopilan mediante técnicas de prueba.
+**Ejemplo:** Intentar ingresar al sistema sin utilizar el segundo factor de autenticación para confirmar que el acceso sea bloqueado.
 
 ### 1.6 Comunicación de resultados y seguimiento
 
-Se elaboran informes que incluyen:
+Se elaboran informes que presentan los hallazgos y las debilidades identificadas. También se proponen acciones correctivas y se realiza un seguimiento para comprobar que las brechas sean resueltas.
 
-- Los hallazgos identificados.
-- Las debilidades encontradas.
-- Las acciones correctivas propuestas.
-
-Posteriormente, se realiza un seguimiento para asegurar que las brechas identificadas sean resueltas.
+**Ejemplo:** Emitir un informe dirigido a la Junta Directiva indicando que existen servidores críticos sin los parches correspondientes y revisar tres meses después si estos fueron instalados.
 
 ---
 
-## 2. Auditor de TI
+# 2. Auditor de TI
 
-El auditor de Tecnologías de Información es un profesional o entidad encargada de supervisar y evaluar de forma **independiente** el entorno de control de una organización.
+El auditor de TI es el profesional o la entidad encargada de supervisar y evaluar de manera independiente el entorno de control de una organización.
 
-Su función principal consiste en proporcionar **información transparente** a las partes interesadas sobre la idoneidad del sistema de control interno.
+Su función principal es proporcionar información transparente a las partes interesadas sobre la idoneidad del sistema de control interno. De esta manera, brinda confianza sobre las operaciones y el cumplimiento de los objetivos estratégicos.
 
-La labor del auditor permite brindar confianza respecto a:
+En el sector financiero costarricense, las entidades deben validar que el auditor posea los conocimientos y la pericia necesarios para evaluar aspectos específicos, como la ciberseguridad y las tecnologías emergentes.
 
-- Las operaciones de la organización.
-- El cumplimiento de los objetivos estratégicos.
-- La efectividad del entorno de control.
-
-En el sector financiero costarricense, las entidades deben validar que el auditor posea los conocimientos y la pericia necesarios para evaluar aspectos específicos, tales como:
-
-- Ciberseguridad.
-- Tecnologías emergentes.
+**Ejemplo:** Un auditor interno de una entidad financiera revisa si el departamento de TI cumple con los estándares de codificación segura establecidos por la organización.
 
 ---
 
-## 3. Juicio Experto
+# 3. Juicio experto
 
-El juicio experto se refiere a la aplicación de conocimientos especializados para validar análisis técnicos antes de la toma de decisiones.
+El juicio experto consiste en aplicar conocimientos especializados para validar análisis técnicos antes de tomar decisiones.
 
-En la gestión de riesgos, el análisis y los resultados del **análisis de impacto al negocio (BIA)** deben ser validados para comprobar que los sesgos presentes en las estimaciones fueron:
+En la gestión de riesgos, el análisis y los resultados del análisis de impacto al negocio deben ser validados para comprobar que los posibles sesgos en las estimaciones fueron calibrados y analizados adecuadamente.
 
-- Calibrados adecuadamente.
-- Analizados de forma apropiada.
+Los marcos internacionales también se construyen mediante los aportes de personas expertas con amplia trayectoria en auditoría y consultoría.
 
-Los marcos internacionales también se construyen a partir del aporte de revisores expertos con amplias trayectorias en:
-
-- Auditoría.
-- Consultoría.
+**Ejemplo:** Un auditor con experiencia técnica valida si el tiempo objetivo de recuperación definido por el departamento de TI es realmente alcanzable con la infraestructura de red disponible.
 
 ---
 
-## 4. Pericia
+# 4. Pericia
 
-La pericia es la competencia técnica demostrada mediante las habilidades y los conocimientos necesarios para realizar una actividad de aseguramiento de forma competente.
+La pericia es la competencia técnica demostrada mediante las habilidades y los conocimientos necesarios para realizar un trabajo de aseguramiento de manera competente.
 
-El marco regulatorio exige que los proveedores de aseguramiento establezcan su:
+El marco regulatorio exige que los proveedores de aseguramiento establezcan su competencia y cualificación antes de realizar una evaluación.
 
-- Competencia.
-- Cualificación.
+La pericia permite al auditor identificar fallas de control y oportunidades para que las tecnologías de información agreguen valor al negocio.
 
-Esta validación debe realizarse antes de ejecutar una evaluación.
-
-La pericia permite al auditor identificar:
-
-- Fallas de control.
-- Oportunidades para que TI se convierta en un socio que agregue valor al negocio.
+**Ejemplo:** Un auditor demuestra pericia cuando realiza un análisis forense después de una brecha de seguridad e identifica el origen del ataque.
 
 ---
 
-## 5. Cuidado Profesional
+# 5. Cuidado profesional
 
-El cuidado profesional implica la supervisión constante de las actividades de aseguramiento para garantizar que el trabajo se complete:
+El cuidado profesional implica supervisar constantemente las actividades de aseguramiento para garantizar que el trabajo se complete de acuerdo con los objetivos establecidos y con un nivel de calidad aceptable.
 
-- De acuerdo con los objetivos establecidos.
-- Con una calidad aceptable.
+También requiere mantener una actitud de objetividad y escepticismo, aplicar códigos de ética, como los de ISACA o el IIA, y cumplir los estándares profesionales durante todo el trabajo.
 
-También requiere mantener una actitud de:
+Cuando se identifica una calidad deficiente, el auditor debe revisar su enfoque o los pasos detallados del proceso.
 
-- Objetividad.
-- Escepticismo profesional.
-
-Durante todo el encargo deben aplicarse:
-
-- Códigos de ética, como los establecidos por **ISACA** o el **IIA**.
-- Estándares profesionales.
-
-Cuando se detecta una calidad deficiente, el auditor debe estar en capacidad de revisar:
-
-- El enfoque utilizado.
-- Los pasos detallados del proceso.
+**Ejemplo:** La persona responsable de una firma de auditoría revisa cuidadosamente los papeles de trabajo elaborados por un auditor con menor experiencia para comprobar que la evidencia obtenida sustente la conclusión del informe.
 
 ---
 
-## 6. Certificaciones Profesionales de TI
+# 6. Certificaciones profesionales de TI
 
-Las certificaciones constituyen un mecanismo para validar la pericia y el conocimiento especializado de los profesionales de Tecnologías de Información.
+Las certificaciones constituyen un mecanismo para validar la pericia y los conocimientos especializados de los profesionales.
 
-### 6.1 CISA
+## 6.1 CISA
 
-La certificación **CISA (Certified Information Systems Auditor)** es reconocida mundialmente por **ISACA**.
+La certificación CISA, denominada *Certified Information Systems Auditor*, es reconocida mundialmente por ISACA.
 
-Esta certificación valida aptitudes relacionadas con:
+Valida conocimientos y aptitudes relacionados con:
 
-- Auditoría.
-- Gobierno.
-- Adquisición.
-- Protección de activos de información.
+* Auditoría.
+* Gobierno de TI.
+* Adquisición de sistemas.
+* Protección de activos de información.
 
-En Costa Rica, los informes de auditoría externa deben incluir el **código del certificado CISA** del auditor responsable.
+En Costa Rica, los informes de auditoría externa deben incluir el código del certificado CISA de la persona auditora responsable.
 
-### 6.2 Otras certificaciones relevantes
+**Ejemplo:** Un auditor externo debe incluir el código vigente de su certificación CISA en la carátula de los informes remitidos a las superintendencias.
 
-Entre las certificaciones mencionadas por el marco normativo y los expertos revisores se encuentran:
+## 6.2 Otras certificaciones relevantes
 
-- **CISM:** Seguridad.
-- **CRISC:** Riesgos.
-- **CGEIT:** Gobierno.
-- **CDPSE:** Privacidad.
-- **ISO 27001:** Seguridad de la información.
+También se mencionan las siguientes certificaciones:
 
-### 6.3 Certificación en servicios de computación en la nube
+* CISM, relacionada con seguridad.
+* CRISC, relacionada con riesgos.
+* CGEIT, relacionada con gobierno.
+* CDPSE, relacionada con privacidad.
+* ISO 27001, relacionada con seguridad de la información.
 
-En servicios específicos, como la **computación en la nube**, se requiere que los proveedores mantengan vigente al menos la certificación **ISO 27001**.
+En servicios específicos, como la computación en la nube, se requiere que los proveedores mantengan vigente al menos la certificación ISO 27001.
 
 ---
 
-Resumiendo
+# 7. Rol del Auditor de TI
 
-La auditoría de TI se desarrolla mediante un proceso secuencial que comprende la planificación basada en riesgos, la definición de objetivos y alcance, la elaboración del programa de trabajo, la evaluación del diseño y funcionamiento de los controles, la comunicación de resultados y el seguimiento.
+## 7.1 El auditor como proveedor de aseguramiento
 
-El auditor de TI debe actuar con independencia, aplicar juicio experto, demostrar pericia y ejercer cuidado profesional durante todo el proceso de aseguramiento. Las certificaciones profesionales permiten validar los conocimientos y competencias requeridos para evaluar entornos tecnológicos, riesgos, gobierno, privacidad, seguridad de la información y servicios de computación en la nube.
+El propósito del auditor es permitir que la dirección ofrezca una garantía adecuada y sostenible sobre el sistema de control interno de TI.
+
+**Ejemplo:** Emitir una opinión técnica formal que asegure que los controles del sistema de transferencias electrónicas reducen adecuadamente el riesgo de fraude.
+
+---
+
+## 7.2 Generación de confianza para las partes interesadas
+
+El auditor proporciona información transparente sobre la idoneidad de los controles. Esto genera confianza en las operaciones y en el cumplimiento de los objetivos estratégicos.
+
+**Ejemplo:** Presentar un informe de auditoría sin hallazgos significativos a los accionistas para brindar confianza sobre la protección de los datos y los activos financieros.
+
+---
+
+## 7.3 Principios éticos del auditor de TI
+
+Las entidades evaluadoras deben demostrar que cumplen estrictamente los códigos de ética, como los establecidos por ISACA o el IIA, y los estándares profesionales aplicables.
+
+**Ejemplo:** Un auditor rechaza una invitación a un viaje pagado por un proveedor de software que está siendo evaluado, con el propósito de evitar un conflicto de interés.
+
+---
+
+## 7.4 Independencia del auditor
+
+El auditor debe ser independiente de las funciones, grupos u organizaciones que forman parte del alcance de la revisión. Esto permite evitar influencias indebidas sobre su trabajo.
+
+**Ejemplo:** El departamento de Auditoría Interna de TI reporta directamente a la Junta Directiva o al Comité de Auditoría y no al director de TI.
+
+---
+
+## 7.5 Objetividad y escepticismo profesional
+
+El auditor debe mantener una actitud mental imparcial y cuestionar la validez de la información proporcionada por las personas responsables de los procesos.
+
+**Ejemplo:** El administrador de la base de datos indica que los respaldos se realizan diariamente. En lugar de aceptar únicamente esta afirmación, el auditor solicita los registros del sistema y realiza una prueba de restauración para confirmarlo.
+
+---
+
+## 7.6 Evaluación basada en evidencia, eliminación de sesgos y juicio profesional
+
+La auditoría debe basarse en hechos.
+
+El auditor debe recopilar información relevante, oportuna y completa mediante evidencia directa e indirecta. Posteriormente, debe aplicar el juicio profesional para evitar que las conclusiones estén influenciadas por prejuicios o sesgos.
+
+**Ejemplo:** Extraer directamente un reporte del Directorio Activo para determinar cuántas personas poseen privilegios de administración, en lugar de utilizar únicamente una hoja de cálculo elaborada manualmente que podría contener errores o información sesgada.
+
+---
+
+# 8. Ideas principales de la sesión # 2
+
+* El auditor de TI evalúa de manera independiente el entorno de control.
+* El aseguramiento permite proporcionar información transparente a las partes interesadas.
+* El juicio experto permite validar análisis técnicos.
+* La pericia demuestra que el auditor posee los conocimientos y las habilidades necesarias.
+* El cuidado profesional garantiza que el trabajo se realice con calidad.
+* Las certificaciones permiten validar conocimientos especializados.
+* La independencia evita influencias indebidas.
+* La objetividad y el escepticismo profesional permiten cuestionar la información recibida.
+* Las conclusiones deben sustentarse en evidencia relevante, oportuna y completa.
+* El juicio profesional permite analizar la evidencia y reducir la influencia de posibles sesgos.
